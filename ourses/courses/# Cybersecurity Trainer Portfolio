@@ -1,0 +1,11 @@
+# Cybersecurity Trainer Portfolio
+
+This repository contains resources, notes, and materials from my work as a cybersecurity trainer and specialist.
+
+## Repository Structure
+
+- [Courses](./courses) – Course outlines and slides  
+- [Labs](./labs) – Hands-on practice labs (Kali, Wireshark, etc.)  
+- [Threat Intelligence](./threat-intelligence) – Notes, tools, and case studies  
+- [Tools](./tools) – Cheat sheets and setup guides  
+- [Certifications](./certifications) – Study notes from CTI, privacy, and security training
